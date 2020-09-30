@@ -2,5 +2,5 @@ lista de la compra
 *************
 Azucar 
 leche
-*manzanas
+manzanas
 agua
